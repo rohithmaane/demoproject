@@ -1,4 +1,4 @@
 # demoproject
-Author - Rohith Maane
+Author - Rohith S Maane
 <br>
 New line added
